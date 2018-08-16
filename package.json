@@ -1,0 +1,15 @@
+{
+  "name": "placecard",
+  "version": "0.0.1",
+  "description": "blah blah blah",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ./main.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Casey A. Childers",
+  "license": "MIT",
+  "dev-dependencies": {
+    "electron": "^2.0.7"
+  }
+}
