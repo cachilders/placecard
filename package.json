@@ -9,7 +9,9 @@
   },
   "author": "Casey A. Childers",
   "license": "MIT",
-  "dev-dependencies": {
-    "electron": "^2.0.7"
+  "dependencies": {
+    "electron": "^2.0.7",
+    "micro": "^9.3.3",
+    "serve-handler": "^4.0.1"
   }
 }
